@@ -44,7 +44,7 @@ public class Account {
 
             public Build favoriteGames(final ArrayList<String> favoriteGames) {
                 this.favoriteGames = favoriteGames;
-                return this;
+                return this; 
                 
             }
         }
